@@ -1,1 +1,4 @@
 Sample log
+Feb 27 10:00:00 sshd[123]: Failed password for root from 192.168.1.10
+Feb 27 10:00:01 sshd[124]: Failed password for root from 192.168.1.10
+Feb 27 10:00:02 sshd[125]: Failed password for root from 172.16.0.5
